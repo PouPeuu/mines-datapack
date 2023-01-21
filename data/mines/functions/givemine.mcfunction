@@ -1,0 +1,1 @@
+give @s minecraft:leather_helmet{display:{color:6192150,Name:'{"text":"Mine","color":"green"}'},IsMine:1b}
