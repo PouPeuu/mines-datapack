@@ -1,0 +1,1 @@
+summon armor_stand ~ ~-0.9 ~ {ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b,tag:{display:{color:6192150}}}],Marker:1,Small:1,Invisible:1,Tags:["mine"]}
