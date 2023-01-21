@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x",
+    "d"
+  ],
+  "category": "misc",
+  "key": {
+    "x":{
+      "item": "minecraft:stone_pressure_plate"
+    },
+    "d":{
+      "item": "minecraft:tnt"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather_helmet",
+
+    "display": {
+      "color": 6192150,
+      "Name": "{\"text\":\"Mine\",\"color\":\"green\"}"
+    },
+    "IsMine": "1b"
+  }
+}
