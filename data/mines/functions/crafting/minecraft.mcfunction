@@ -1,0 +1,1 @@
+execute as @s store result score @s a run data get entity @s Item.Count
