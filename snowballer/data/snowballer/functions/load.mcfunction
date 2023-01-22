@@ -1,0 +1,1 @@
+scoreboard objectives add snowball minecraft.used:minecraft.snowball
